@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ialds90
 - 👀 I’m interested in learning software development
-- 🌱 I’m currently learning python, c#, selenium and git
+- 🌱 I’m currently learning laravel 11, react, python, c#, selenium, flutter and git
 - 📫 You can reach me via indranath.alds@gmail.com
 
 <!---
